@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Proj/grlib-gpl-2020.2-b4254/designs/signlecycle/tb_top_isim_beh.exe" -prj "D:/Proj/grlib-gpl-2020.2-b4254/designs/signlecycle/tb_top_beh.prj" "work.tb_top" "work.glbl" 

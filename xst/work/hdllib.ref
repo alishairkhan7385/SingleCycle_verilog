@@ -1,0 +1,12 @@
+MO Control NULL top.v vlg41/_control.bin 1623151663
+MO AluControl NULL top.v vlg63/_alu_control.bin 1623151663
+MO ControlDecode NULL top.v vlg79/_control_decode.bin 1623151663
+MO RegisterFile NULL top.v vlg69/_register_file.bin 1623151663
+MO ImmediateGeneration NULL top.v vlg57/_immediate_generation.bin 1623151663
+MO Top NULL top.v vlg4F/_top.bin 1623151664
+MO DataMem NULL top.v vlg75/_data_mem.bin 1623151664
+MO Pc NULL top.v vlg73/_pc.bin 1623151663
+MO InstructionMem NULL top.v vlg0D/_instruction_mem.bin 1623151663
+MO Alu NULL top.v vlg6A/_alu.bin 1623151663
+MO Jalr NULL top.v vlg29/_jalr.bin 1623151663
+MO InstructionTypeDecode NULL top.v vlg64/_instruction_type_decode.bin 1623151663

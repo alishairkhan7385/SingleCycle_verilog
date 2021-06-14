@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Proj/grlib-gpl-2020.2-b4254/designs/signlecycle/Top.xst" -ofn "D:/Proj/grlib-gpl-2020.2-b4254/designs/signlecycle/Top.syr" 
